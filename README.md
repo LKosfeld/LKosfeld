@@ -13,7 +13,7 @@
 
 
 ## Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/luca-kosfeld)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luca-kosfeld)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:luca.kosfeld@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luca.kosfeld)
 <!--
