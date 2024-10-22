@@ -11,7 +11,8 @@
 
 ## Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucakosfeld)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lucakosfeld@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:luca.kosfeld@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luca.kosfeld)
 <!--
 **LKosfeld/LKosfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
