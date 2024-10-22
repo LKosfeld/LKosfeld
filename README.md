@@ -2,8 +2,8 @@
 - 🎓 Estudante de Estatística na UFMG
 - 📊 Apaixonado por Data Science e Sports Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKosfeld&layout=donut&bg_color=0d1117&hide_border=true)](https://github.com/LKosfeld/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKosfeld&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKosfeld&layout=donut&theme=transparent)](https://github.com/LKosfeld/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
